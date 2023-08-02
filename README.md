@@ -1,4 +1,4 @@
-***Text Detection Project***
+**Text Detection Project**
 
 This project aims to detect text in images using the EasyOCR library, which provides an easy-to-use interface for optical character recognition (OCR). The main.py script utilizes EasyOCR to read text from an image and highlights the detected text regions with bounding boxes.
 
