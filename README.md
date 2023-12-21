@@ -12,6 +12,8 @@ git clone https://github.com/Rhythm1821/Text-Detection
 
 cd Text-Detection
 
+export QT_QPA_PLATFORM=wayland
+
 ## Install the required dependencies from the requirements.txt file:
 
 pip install -r requirements.txt
